@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://images.pexels.com/photos/157039/pexels-photo-157039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
 
 
 # Gonçalo Fontenele
@@ -12,7 +12,7 @@
 
  <br/> :purple_heart: &nbsp; Looking for colaborate with React.js, react-native and python
  <br/> :blush: &nbsp; I can help you with Python
- <br/> 💬  &nbsp; Sobre mim: I enjoy new tecnologies, Netlix series and playing the guitar
+ <br/> 💬  &nbsp; About me: I enjoy new tecnologies, Netlix series and playing the guitar
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-GonçaloFontenele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gon%C3%A7alofontenele/)](https://www.linkedin.com/in/gon%C3%A7alofontenele/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-goncalogfb@poli.ufrj.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goncalogfb@poli.ufrj.br)](mailto:goncalogfb@poli.ufrj.br)
