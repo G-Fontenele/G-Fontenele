@@ -10,9 +10,9 @@
 
 🌱 I am looking for learning and develop my hoobies, such as react.js, react-native skills, and also to improve my college studies, with matlab, livescript codes, python and others.
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com Python
- <br/> 💬  &nbsp; Sobre mim: Curto novas tecnologias, seriados no Netflix, tocar violão e guitarra e algumas outras coisas mais
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GonçaloFontenele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gon%C3%A7alofontenele/)](https://www.linkedin.com/in/gon%C3%A7alofontenele/) 
+ <br/> :purple_heart: &nbsp; Looking for colaborate with React.js, react-native and python
+ <br/> :blush: &nbsp; I can help you with Python
+ <br/> 💬  &nbsp; Sobre mim: I enjoy new tecnologies, Netlix series and playing the guitar
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-GonçaloFontenele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gon%C3%A7alofontenele/)](https://www.linkedin.com/in/gon%C3%A7alofontenele/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-goncalogfb@poli.ufrj.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goncalogfb@poli.ufrj.br)](mailto:goncalogfb@poli.ufrj.br)
