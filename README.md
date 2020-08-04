@@ -13,6 +13,6 @@
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com Python
  <br/> 💬  &nbsp; Sobre mim: Curto novas tecnologias, seriados no Netflix, tocar violão e guitarra e algumas outras coisas mais
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Gonçalo Fontenele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gon%C3%A7alofontenele/)](https://www.linkedin.com/in/gon%C3%A7alofontenele/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GonçaloFontenele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gon%C3%A7alofontenele/)](https://www.linkedin.com/in/gon%C3%A7alofontenele/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-goncalogfb@poli.ufrj.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goncalogfb@poli.ufrj.br)](mailto:goncalogfb@poli.ufrj.br)
